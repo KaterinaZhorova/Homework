@@ -1,0 +1,15 @@
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\bin\Debug\net6.0\первый семинар.exe
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\bin\Debug\net6.0\первый семинар.deps.json
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\bin\Debug\net6.0\первый семинар.runtimeconfig.json
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\bin\Debug\net6.0\первый семинар.dll
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\bin\Debug\net6.0\первый семинар.pdb
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.csproj.AssemblyReference.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.AssemblyInfoInputs.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.AssemblyInfo.cs
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.csproj.CoreCompileInputs.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.dll
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\refint\первый семинар.dll
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.pdb
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\первый семинар.genruntimeconfig.cache
+C:\Users\zhoro\OneDrive\Рабочий стол\Домашняя работа С#\первый семинар\obj\Debug\net6.0\ref\первый семинар.dll
